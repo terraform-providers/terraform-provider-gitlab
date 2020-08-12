@@ -1,5 +1,7 @@
 THIS PROVIDER IS NOW MAINTAINED BY GITLAB, THE NEW LOCATION IS https://github.com/gitlabhq/terraform-provider-gitlab
+
 ---
+
 
 <img src="https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg" width="600px">
 
